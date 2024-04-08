@@ -1,4 +1,7 @@
 
+
+![Example Image](./customer-lifecycle%20image.jpg)
+
 # Customer LifeCycle Analysis
  
   
