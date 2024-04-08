@@ -1,0 +1,8 @@
+urllib 
+os 
+requests
+pandas 
+numpy 
+seaborn 
+matplotlib 
+scikit-learn
